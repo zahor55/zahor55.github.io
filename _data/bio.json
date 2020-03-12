@@ -28,7 +28,7 @@
   },
   "interests": [
     {
-      "name": "Web",
+      "name": "Web development",
       "keywords": [
         "Node.js",
         "React",
@@ -40,6 +40,12 @@
       "keywords": [
         "qa",
         "Selenium"
+      ]
+    },
+    {
+      "name": "web scraping",
+      "keywords": [
+        "beautifulsoup"
       ]
     },
     {
