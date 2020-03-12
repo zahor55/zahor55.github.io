@@ -28,19 +28,22 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Node.js",
+        "React",
+        "Wordpress"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Automation",
       "keywords": [
+        "qa",
+        "Selenium"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cyber security",
       "keywords": [
       ]
     }
@@ -54,19 +57,14 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "React",
+        "React Native",
+        "html",
+        "css",
+        "mongo db",
+        "flask",
+        "Node.js",
+        "python"
       ]
     }
   ],
@@ -79,33 +77,53 @@
       "endDate": "Present",
       "gpa": "84",
       "courses": [
+        "full stack",
+        "databases",
+        "Object Oriented Programming",
+        "Network attacks",
+        "computer communication",
+        "Mobile app development-react native",
+        "Operating Systems",
+        "Introduction to Artificial Intelligence",
+        "Introduction to algorithms"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Travelsuit",
+      "position": "Qa and technical supporter",
+      "startDate": "2019-02-01",
+      "endDate": "2019-12-31",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Responsible for daily system testing and support for system users"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Taptica",
+      "position": "student position",
+      "startDate": "2017-10-01",
+      "endDate": "2019-01-31",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Responsible for creating new proposals for apps advertising and changing existing proposals, as well as sql reports in mysql db to company employees"
       ]
+    },
+    {
+      "company": "Israel Tax Authority ",
+      "position": "Operation team member",
+      "startDate": "2016-10-01",
+      "endDate": "2017-10-01",
+      "highlights": [
+       "Student in the Technology Division-Assistant to the department's head of drafting and writing technology tenders and contracts, and after that moved to head of the security screening branch "
+      ]
+    },
+    {
+      "company": "Livedns Ltd",
+      "position": "Technical support",
+      "startDate": "2015-10-01",
+      "endDate": "2016-10-01",
+      "highlights": [
+        "Technical support at web hosting company. Work that requires customer service. Solving a problem remotely or by taking control of the customer's computer or phone support."]
     }
   ],
   "references": [
