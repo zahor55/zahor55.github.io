@@ -1,11 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+image: images/soccer.jpg
+title: Sport-j Api
+permalink: projects/sport-j
 labels:
   - Robotics
   - Arduino
