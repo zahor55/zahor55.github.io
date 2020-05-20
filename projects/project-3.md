@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/501_101 gAME.jpg
-title: Cotton
+title: 501/101 Game
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 
