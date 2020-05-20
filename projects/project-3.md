@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/501_101 gAME.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-11
 labels:
   - GitHub
-summary: a game i develop for my family
+  - React native
+summary: a game i develop for my family-card game and the app allows you to enter as many participants as you want and each user can add a score or reset
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/k.png">
